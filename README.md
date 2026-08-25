@@ -74,13 +74,17 @@ Self-managed infrastructure running 24/7 in production: reverse proxy, DNS filte
 </details>
 
 <div align="center">
-<table border="0" cellspacing="0" cellpadding="0">
+<table border="0" cellspacing="0" cellpadding="0" style="border: 0 !important; border-collapse: collapse;">
 <tr>
-<td align="center" valign="middle" style="border: none;">
+<td align="center" valign="middle" style="border: 0 !important;">
+
 <img src="https://github-stats-extended.vercel.app/api?username=Sply-Dev&show_icons=true&hide_border=true&bg_color=0b0f0d&title_color=3FB950&icon_color=3FB950&text_color=c9d1d9&custom_title=Andr%C3%A9%20Alves%20%E2%80%94%20GitHub%20Stats" height="195"/>
+
 </td>
-<td align="center" valign="middle" style="border: none;">
+<td align="center" valign="middle" style="border: 0 !important;">
+
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Sply-Dev&layout=compact&hide_border=true&bg_color=0b0f0d&title_color=3FB950&text_color=c9d1d9&card_width=350" height="195"/>
+
 </td>
 </tr>
 </table>
