@@ -39,7 +39,7 @@ I use my own homelab and VPS as a real lab to study security, networking and aut
 <tr>
 <td width="50%" valign="top">
 
-**Elefante Letrado Script**
+**[Elefante Letrado Script](https://github.com/Sply-Dev/Elefante-Letrado-Script)**
 
 Modular userscript (Tampermonkey) with its own architecture: EventBus, CDN-loaded modules, fault isolation. Refactored from ~1,200 monolithic lines to 2,200+ modular lines.
 
