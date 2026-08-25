@@ -25,6 +25,7 @@ I use my own homelab and VPS as a real lab to study security, networking and aut
 - 🔍 Studying reverse engineering and OSINT on my own
 - ⚙️ I write scripts to automate whatever can be automated
 - 💬 Feel free to ask questions, happy to help
+- 🔧 Building things, breaking things, figuring out why they broke
 
 <div align="center">
 
