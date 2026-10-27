@@ -2,8 +2,6 @@
 
 # Hi, I'm André 🖖
 
-</div>
-
 <div align="center">
 
 [![Email](https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=protonmail&logoColor=3FB950)](mailto:andre.de.duarte10@proton.me)
